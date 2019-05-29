@@ -1,0 +1,6 @@
+framework module Pods_TipResult {
+  umbrella header "Pods-TipResult-umbrella.h"
+
+  export *
+  module * { export * }
+}
